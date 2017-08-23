@@ -1,0 +1,2002 @@
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player A calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player B calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player C calls yaniv!
+Started game with 4 players, ['A', 'B', 'C', 'D'].
+Player D calls yaniv!
+Final scores after 1000 games: {'A': 20262, 'B': 20105, 'C': 19823, 'D': 19260}.
+Number of draws: 0.
