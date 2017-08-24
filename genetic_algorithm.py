@@ -16,10 +16,13 @@ class GeneticAlgorithm:
         def __init__(self, array, fitness_function):
             self.array = array
             self.fitness_function = fitness_function
-            self.fitness = None
+            self.fitness = 0
+            self.num_times_estimated = 0
 
         def get_fitness(self):
-            self.fitness = self.fitness_function(self.array)
+            this_estimate = self.fitness_function(self.array)
+            self.fitness = (self.fitness * self.num_times_estimated + this_estimate) / (self.num_times_estimated + 1)
+            self.num_times_estimated += 1
 
     def evolve(self):
         # Initialize population
@@ -36,7 +39,12 @@ class GeneticAlgorithm:
                 population[i] = self.Individual(self.recombine(mother, father), self.fitness_function)
                 self.mutate(population[i])
             # logging
-            print(population[0].fitness, population[half_pop - 1].fitness, population[0].array)
+            print(f'Generation: {generation}, '
+                  f'best fitness: {format(population[0].fitness, ".0f")}, '
+                  f'age: {format(population[0].num_times_estimated, ".0f")}, '
+                  f'middle fitness: {format(population[half_pop - 1].fitness, ".0f")}, '
+                  f'best genome: {[format(e, ".2f") for e in population[0].array]}')
+            #print(population[0].fitness, population[half_pop - 1].fitness, population[0].array)
         return population[0].array
 
     def population_initialization(self):

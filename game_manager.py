@@ -1,33 +1,39 @@
 from player import BasePlayer
+from advanced_player import AdvancedPlayer
 from deck import Deck
 from game import Game
 import logging
+import pickle
 
 
 class GameManager:
 
-    def __init__(self):
+    def __init__(self, player_list=None):
         self.deck = Deck()
-        self.player_list = [BasePlayer('A'), BasePlayer('B'), BasePlayer('C'), BasePlayer('D')]
+        if player_list is None:
+            self.player_list = [BasePlayer('A'), BasePlayer('B'), BasePlayer('C'), BasePlayer('D')]
+        else:
+            self.player_list = player_list
         self.game = Game(self.deck, self.player_list)
         logging.basicConfig(filename='log.txt',
                             filemode='w',
                             # format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
                             format='%(message)s',
                             # datefmt='%H:%M:%S',
-                            level=logging.INFO)
+                            level=logging.DEBUG)
         self.logger = logging.getLogger(__name__)
 
     def play_games(self, num_games):
         scores_dict = dict([(p.id, 0) for p in self.player_list])
         draw_count = 0
+        starting_player = self.player_list[0]
         for i in range(num_games):
             self.logger.debug(f'-------------- Started game {i} --------------')
             self.deck.reset()
             self.deal_cards()
             self.flip_first_card()
             self.game.round_counter = 0
-            result = self.game_round_loop()
+            starting_player, result = self.game_round_loop(starting_player)
             if result is 'draw':
                 draw_count += 1
                 continue
@@ -35,9 +41,9 @@ class GameManager:
                 scores_dict[p] += result[p]
         self.logger.info(f'Final scores after {num_games} games: {scores_dict}.')
         self.logger.info(f'Number of draws: {draw_count}.')
-        print(f'Final scores after {num_games} games: {scores_dict}.')
-        print(f'Number of draws: {draw_count}.')
-
+        # print(f'Final scores after {num_games} games: {scores_dict}.')
+        # print(f'Number of draws: {draw_count}.')
+        return scores_dict, draw_count
 
     def deal_cards(self):
         for player in self.player_list:
@@ -48,22 +54,27 @@ class GameManager:
     def flip_first_card(self):
         self.deck.discard(self.deck.draw_top_card())
 
-    def game_round_loop(self):
+    def game_round_loop(self, starting_player):
         self.logger.info(f'Started game with {len(self.player_list)} players, {[p.id for p in self.player_list]}.')
         yaniv = False
+        turn_zero = True
         while not yaniv:
             if self.game.round_counter >= 40:
                 self.logger.info(f'Game ends in draw.')
-                print('Game ends in draw.')
-                return 'draw'
+                # print('Game ends in draw.')
+                return None, 'draw'
             for player in self.player_list:
+                if turn_zero and player is not starting_player:
+                    continue
+                turn_zero = False
                 self.logger.debug(f'Player {player.id} starting turn. Round: {self.game.round_counter}')
                 self.logger.debug(f"Player's hand: {[str(c) for c in player.hand]}, value: {player.get_hand_value()}.")
                 self.logger.debug(f'Top of discard pile: {self.deck.get_top_discard()}')
                 if player.decide_call_yaniv(self.game):
                     self.logger.info(f'Player {player} calls yaniv!')
-                    print(f'Player {player} calls yaniv!')
-                    return self.yaniv_handler(player)
+                    # print(f'Player {player} calls yaniv!')
+                    scores_dict = self.yaniv_handler(player)
+                    return player, scores_dict
                 player_discards = player.decide_cards_to_discard(self.game)
                 self.logger.debug(f'Player discards: {[str(c) for c in player_discards]}')
                 draw_pile, draw_card = player.decide_card_to_draw(self.game)
@@ -95,10 +106,11 @@ class GameManager:
             if player.get_hand_value() <= yaniv_caller_hand_value and player is not yaniv_caller:
                 self.game.assafed = True
                 self.logger.debug(f'{yaniv_caller} was assafed by {player}!')
-                print(f'{yaniv_caller} was assafed by {player}!')
+                # print(f'{yaniv_caller} was assafed by {player}!')
                 break
         self.logger.debug(f'Final hand values: {[(p.id, p.get_hand_value()) for p in self.player_list]}')
-        return self.create_score_dict(yaniv_caller)
+        scores_dict = self.create_score_dict(yaniv_caller)
+        return scores_dict
 
     def create_score_dict(self, yaniv_caller):
         scores_dict = {}
@@ -121,5 +133,8 @@ if __name__ == '__main__':
     #     gm.flip_first_card()
     #     wins[gm.game_round_loop().id] += 1
     # print(wins)
-    gm = GameManager()
-    gm.play_games(1000)
+    with open('08241201.p', 'rb') as f:
+        params = pickle.load(f)
+    player_list = [AdvancedPlayer('A', params), BasePlayer('B'), BasePlayer('C'), BasePlayer('D')]
+    gm = GameManager(player_list)
+    gm.play_games(100)

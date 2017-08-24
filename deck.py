@@ -62,6 +62,12 @@ class Deck:
         self.shuffle()
         self.discards.append(top_discard)
 
+    def get_cards_available(self):
+        available = [self.get_top_discard()]
+        if self.last_straight_bottom_card is not None:
+            available.append(self.last_straight_bottom_card)
+        return available
+
     @staticmethod
     def is_straight(cards):
         if len(cards) >= 3:
