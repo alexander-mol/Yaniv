@@ -7,9 +7,9 @@ class AdvancedPlayer(BasePlayer):
 
     def __init__(self, id, nn_parameters):
         super().__init__(id)
-        self.yaniv_nn = NeuralNetwork([6, 4, 3, 1])
-        self.discard_nn = NeuralNetwork([7, 5, 4, 1])
-        self.draw_nn = NeuralNetwork([5, 3, 2])
+        self.yaniv_nn = NeuralNetwork([6, 1])
+        self.discard_nn = NeuralNetwork([7, 1])
+        self.draw_nn = NeuralNetwork([5, 2])
 
         self.yaniv_nn.set_parameters(nn_parameters[:self.yaniv_nn.get_num_params()])
         self.discard_nn.set_parameters(nn_parameters[self.yaniv_nn.get_num_params():self.yaniv_nn.get_num_params()

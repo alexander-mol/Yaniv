@@ -133,8 +133,12 @@ if __name__ == '__main__':
     #     gm.flip_first_card()
     #     wins[gm.game_round_loop().id] += 1
     # print(wins)
-    with open('08241201.p', 'rb') as f:
+    with open('08260250.p', 'rb') as f:
         params = pickle.load(f)
     player_list = [AdvancedPlayer('A', params), BasePlayer('B'), BasePlayer('C'), BasePlayer('D')]
     gm = GameManager(player_list)
-    gm.play_games(100)
+    num_games = 1000
+    scores_dict, draw_count = gm.play_games(num_games)
+    for key in scores_dict:
+        scores_dict[key] /= num_games
+    print(scores_dict, draw_count/num_games)

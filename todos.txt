@@ -2,10 +2,11 @@ x streets out
 x streets in (hard)
 x draw card = discarded card quick flip (easy)
 x scoring across rounds (easy)
+x multiprocessing for ga - 4x improvement
+x Yaniv caller gets to start next round
 - BasePlayer draw from discard pile if can get a double (medium, need player.think)
 - BasePlayer draw from discard pile if can get a straight (medium)
-x Yaniv caller gets to start next round
 - clean up BasePlayer (maybe need utils)
 - clean up Game
 - multiples of 50 halve scores
-- multiprocessing for ga - 4x improvement
+- immediate discard can only happen after playing a single card, and can't happen after drawing from discard pile

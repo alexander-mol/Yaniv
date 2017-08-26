@@ -1,16 +1,20 @@
 import numpy as np
 import random
 import copy
+from multiprocessing import Pool
+import pickle
 
 class GeneticAlgorithm:
 
-    def __init__(self, dna_length, fitness_function, max_pop, max_gen, mutation_rate=0.05, mutation_severity=1):
+    def __init__(self, dna_length, fitness_function, max_pop, max_gen, mutation_rate=0.05, mutation_severity=1,
+                 use_parallelism=True):
         self.dna_length = dna_length
         self.fitness_function = fitness_function
         self.max_pop = max_pop
         self.max_gen = max_gen
         self.mutation_rate = mutation_rate
         self.mutation_severity = mutation_severity
+        self.use_parallelism = use_parallelism
 
     class Individual:
         def __init__(self, array, fitness_function):
@@ -24,14 +28,22 @@ class GeneticAlgorithm:
             self.fitness = (self.fitness * self.num_times_estimated + this_estimate) / (self.num_times_estimated + 1)
             self.num_times_estimated += 1
 
+    def mp_fitness(self, individual):
+        individual.get_fitness()
+        return individual
+
     def evolve(self):
         # Initialize population
         population = self.population_initialization()
         half_pop = int(self.max_pop / 2)
         # Start evolution
         for generation in range(self.max_gen):
-            for individual in population:
-                individual.get_fitness()
+            if self.use_parallelism:
+                pool = Pool(processes=4)
+                population = pool.map(self.mp_fitness, population)
+            else:
+                for individual in population:
+                    individual.get_fitness()
             population.sort(key=lambda x: -x.fitness)
             for i in range(half_pop, len(population)):
                 mother = random.choice(population[:half_pop])
@@ -40,10 +52,12 @@ class GeneticAlgorithm:
                 self.mutate(population[i])
             # logging
             print(f'Generation: {generation}, '
-                  f'best fitness: {format(population[0].fitness, ".0f")}, '
+                  f'best fitness: {format(population[0].fitness, ".2f")}, '
                   f'age: {format(population[0].num_times_estimated, ".0f")}, '
-                  f'middle fitness: {format(population[half_pop - 1].fitness, ".0f")}, '
+                  f'middle fitness: {format(population[half_pop - 1].fitness, ".2f")}, '
                   f'best genome: {[format(e, ".2f") for e in population[0].array]}')
+            with open('pop_cache' + '.p', 'wb') as f:
+                pickle.dump(population, f)
             #print(population[0].fitness, population[half_pop - 1].fitness, population[0].array)
         return population[0].array
 
