@@ -20,13 +20,13 @@ class BasePlayer:
         discardable_sets.sort(key=lambda x: -sum([y.value for y in x]))
         return discardable_sets[0]
 
-    def decide_card_to_draw(self, game):
+    def decide_card_to_draw(self, game, cutoff=4):
         cards_available = [game.get_top_discard()]
         if game.deck.get_last_straight_bottom_card() is not None:
             cards_available.append(game.deck.get_last_straight_bottom_card())
 
         cards_available.sort(key=lambda x: x.value)
-        if cards_available[0].value <= 4:
+        if cards_available[0].value <= cutoff:
             card_to_draw = cards_available[0]
             if card_to_draw.value < sum([c.value for c in self.decide_cards_to_discard(game)]):
                 if card_to_draw is game.get_top_discard():
@@ -91,7 +91,8 @@ class BasePlayer:
 
         return discarable_sets_list
 
-    def valid_straight_numbers(self, cards):
+    @staticmethod
+    def valid_straight_numbers(cards):
         if len(cards) < 3:
             return False, []
         cards.sort(key=lambda x: x.order)

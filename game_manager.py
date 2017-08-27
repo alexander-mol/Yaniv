@@ -1,5 +1,7 @@
 from player import BasePlayer
 from advanced_player import AdvancedPlayer
+from advanced_player import StaticSmartPlayer
+from advanced_player import DumbSmartPlayer
 from deck import Deck
 from game import Game
 import logging
@@ -20,7 +22,7 @@ class GameManager:
                             # format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
                             format='%(message)s',
                             # datefmt='%H:%M:%S',
-                            level=logging.DEBUG)
+                            level=logging.ERROR)
         self.logger = logging.getLogger(__name__)
 
     def play_games(self, num_games):
@@ -135,10 +137,13 @@ if __name__ == '__main__':
     # print(wins)
     with open('08260250.p', 'rb') as f:
         params = pickle.load(f)
-    player_list = [AdvancedPlayer('A', params), BasePlayer('B'), BasePlayer('C'), BasePlayer('D')]
+    # player_list = [DumbSmartPlayer('A'), BasePlayer('B'), BasePlayer('C'), BasePlayer('D')]
+    player_list = [StaticSmartPlayer('A'), BasePlayer('B'), BasePlayer('C'), BasePlayer('D')]
+    # player_list = [AdvancedPlayer('A', params), BasePlayer('B'), BasePlayer('C'), BasePlayer('D')]
     gm = GameManager(player_list)
-    num_games = 1000
+    num_games = 100000
     scores_dict, draw_count = gm.play_games(num_games)
     for key in scores_dict:
         scores_dict[key] /= num_games
     print(scores_dict, draw_count/num_games)
+    print(min([scores_dict[k] for k in scores_dict if k != 'A']) - scores_dict['A'])

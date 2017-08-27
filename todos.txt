@@ -4,9 +4,21 @@ x draw card = discarded card quick flip (easy)
 x scoring across rounds (easy)
 x multiprocessing for ga - 4x improvement
 x Yaniv caller gets to start next round
-- BasePlayer draw from discard pile if can get a double (medium, need player.think)
-- BasePlayer draw from discard pile if can get a straight (medium)
+x BasePlayer draw from discard pile if can get a double (medium, need player.think)
+x BasePlayer draw from discard pile if can get a straight (medium)
 - clean up BasePlayer (maybe need utils)
 - clean up Game
 - multiples of 50 halve scores
 - immediate discard can only happen after playing a single card, and can't happen after drawing from discard pile
+
+
+Fitness estimates:
+100k rounds, Tries to make streets and doubles, but only while min(c_o) > 2, rarely calls yaniv, picks up 5's, StaticSmartPlayer, 7.907
+100k rounds, Long evolved simple nn implementation - 08260250, AdvancedPlayer, 7.779
+100k rounds, BasePlayer who never calls yaniv, DumbSmartPlayer, 7.367
+
+100k rounds, Tries to make streets and doubles, but only while min(c_o) > 2, rarely calls yaniv, picks up 6's, StaticSmartPlayer, 7.874
+100k rounds, Tries to make streets and doubles, but only while min(c_o) > 2 and rarely calls yaniv, StaticSmartPlayer, 7.804
+100k rounds, Tries to make streets and doubles, but only while min(c_o) > 3 and rarely calls yaniv, StaticSmartPlayer, 7.727
+100k rounds, Tries to make streets and doubles and rarely calls yaniv, StaticSmartPlayer, 7.625
+100k rounds, Tries to make streets and doubles and calls yaniv if opp cards >= 4, StaticSmartPlayer, 7.309

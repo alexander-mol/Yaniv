@@ -21,7 +21,7 @@ class Deck:
     def discard(self, cards):
         self.last_straight_bottom_card = None
         if isinstance(cards, list):
-            if self.is_straight(cards):
+            if self.check_straight_suits(cards):
                 self.last_straight_bottom_card = cards[0]
             for card in cards:
                 self.discards.append(card)
@@ -69,7 +69,7 @@ class Deck:
         return available
 
     @staticmethod
-    def is_straight(cards):
+    def check_straight_suits(cards):
         if len(cards) >= 3:
             suit = None
             for card in cards:

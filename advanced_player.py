@@ -52,3 +52,57 @@ class AdvancedPlayer(BasePlayer):
             return 'discard pile', game.deck.get_top_discard()
         else:
             return 'unseen pile', game.get_top_card()
+
+
+class StaticSmartPlayer(BasePlayer):
+
+    def decide_call_yaniv(self, game):
+        if self.get_hand_value() <= 7:
+            if self.get_hand_value() == 0:
+                return True
+            value_per_card_lowest_estimate = 0.25
+            num_cards_players = game.get_num_cards_players()
+            if min(num_cards_players) * value_per_card_lowest_estimate > self.get_hand_value():
+                return True
+            else:
+                return False
+
+    def decide_cards_to_discard(self, game):
+        self.card_to_draw = None
+        discardable_sets = self.get_discardable_sets()
+        discardable_sets.sort(key=lambda x: -sum([y.value for y in x]))
+        cards_available = game.deck.get_cards_available()
+        if min(game.get_num_cards_players()) > 2:
+            for i in range(len(discardable_sets)):
+                if game.deck.check_straight_suits(discardable_sets[i]):
+                    for card in cards_available:
+                        if game.deck.check_straight_suits([card]+discardable_sets[i]):
+                            if super().valid_straight_numbers([card]+discardable_sets[i]):
+                                self.card_to_draw = card
+                                continue
+                        if game.deck.check_straight_suits(discardable_sets[i]+[card]):
+                            if super().valid_straight_numbers(discardable_sets[i]+[card]):
+                                self.card_to_draw = card
+                                continue
+                if discardable_sets[i][0].rank in [c.rank for c in cards_available]:
+                    for card in cards_available:
+                        if card.rank == discardable_sets[i][0].rank:
+                            self.card_to_draw = card
+                    continue
+                return discardable_sets[i]
+        return discardable_sets[0]
+
+    def decide_card_to_draw(self, game):
+        if  self.card_to_draw is not None and game.get_top_discard() == self.card_to_draw:
+            return 'discard pile', self.card_to_draw
+        elif self.card_to_draw is not None and game.deck.get_last_straight_bottom_card() == self.card_to_draw:
+            return 'start of previous straight in discard pile', self.card_to_draw
+        else:
+            return super().decide_card_to_draw(game, cutoff=6)
+
+class DumbSmartPlayer(BasePlayer):
+
+    def decide_call_yaniv(self, game):
+        if self.get_hand_value() == 0:
+            return True
+        return False
